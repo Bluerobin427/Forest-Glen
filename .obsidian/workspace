@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "531255364ed98ea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "444360e571e96e34",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sessions/2022-6-25.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c44eca052d27768",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d849f2d68039b1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8eabf949cc9826b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e742f1f76c940cb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "103c7e451274366d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ace5647b1172465f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7d09e91826d77d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/2022-6-25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "444360e571e96e34",
+  "lastOpenFiles": [
+    "Sessions/2022-6-25.md",
+    "Sessions/2022-6-19.md",
+    "slave brand.md",
+    "Sessions/2020-11-7.md",
+    "Stronghurst.md",
+    "Reinhold Ironsword.md",
+    "Atka's Story/Brom Bronzehand.md",
+    "Sessions/2020-11-14.md",
+    "Sessions/2020-11-21.md",
+    "A series of interesting books.md"
+  ]
+}
