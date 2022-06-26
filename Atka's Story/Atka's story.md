@@ -1,0 +1,5 @@
+She's the only child of [[Brom Bronzehand]] (elf) and [[Stan Wilson]] (human). Met her mom relatively recently (4 months ago). Her dad discovered her sorcerous Wild Talent. Was surprised that her mom was excited and happy to meet and teach her. Found out her mother's life wasn't going well. Lots of drinking, arguments with Nora and debt. Brom was hiding it through illusion spells.
+
+Not long after they met, Brom made Atka her heir and mistress of the tower. Atka tried to stay out of the inheritance talks and just wanted to learn magic, but it wasn't going phenomenally because wizard + sorcerer.
+
+Turns out Nora and Gebetto were slowly stealing what was left, Nora walked in, and that set off the attack. Because Atka was the heir, the attack on her triggered the tower's defense system and warned Brom of the attack.

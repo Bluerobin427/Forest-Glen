@@ -1,0 +1,1 @@
+Seen a "QW" brand on serfs/slaves at Adam [[Smith's Imports and Exports]]

@@ -1,0 +1,1 @@
+[[The Old Gods]] made stuff, [[the new gods]] took the world from them alongside the Forces of Good. Took their power and rebuilt the world. The new gods can't have clerics or paladins because of that. Sometimes there are clerics or paladins that "tap into" the old gods, rather than directly worshiping them.
