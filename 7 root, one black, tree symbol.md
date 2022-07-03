@@ -1,0 +1,1 @@
+Seen on notes that appear in Luigi's pocket after he does his random tasks. Also seen on the Silent Rage book from [[A series of interesting books]] about Mayhem Marguerite.

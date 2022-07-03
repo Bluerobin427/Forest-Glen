@@ -6,9 +6,9 @@ No
 
 Encourage to move here and try again
 
-- Elfthryth: Female Human Merchant Guard (Fighter 1), N. Str 6, Dex 11, Con 6, Int 10, Wis 9, Cha 10. Elfthryth has a long face, with long auburn hair and narrow grey eyes. She wears studded leather and wields a glaive. Elfthryth has an animal companion, a black rat named Rihtio. Answers are direct and to the point. Skill: Wood carving
+- Elfthryth Titanhood: Female Human Merchant Guard (Fighter 1), N. Str 6, Dex 11, Con 6, Int 10, Wis 9, Cha 10. Elfthryth has a long face, with long auburn hair and narrow grey eyes. She wears studded leather and wields a glaive. Elfthryth has an animal companion, a black rat named Rihtio. Answers are direct and to the point. Skill: Wood carving
 - Gerda Hildedotr: Female Dwarf Vagabond (Barbarian 2), N. Str 15, Dex 7, Con 11, Int 12, Wis 10, Cha 6. Gerda has black hair and light brown eyes. She wears studded leather and wields a maul. Gerda is searching for the lost kingdom of Ningelin (Pire-Breaking) and is here to earn money and scout the area. Skill: Cartography
-- (Patron-izeinvite him to be a potter and put up murals)Umur: Male Gnome Artist (No class), N. Str 11, Dex 9, Con 8, Int 8, Wis 10, Cha 10. Umur has tangled black hair and brown eyes, and walks with a limp. He wears fine shabby clothing but a gold amulet. Was kicked out by his master for not meeting unfair standards. Umur is searching for a way to make money so he can start his own pottery shop. Skill: 3D art.
+- (Patron-izeinvite him to be a potter and put up murals)Umur : Male Gnome Artist (No class), N. Str 11, Dex 9, Con 8, Int 8, Wis 10, Cha 10. Umur has tangled black hair and brown eyes, and walks with a limp. He wears fine shabby clothing but a gold amulet. Was kicked out by his master for not meeting unfair standards. Umur is searching for a way to make money so he can start his own pottery shop. Skill: 3D art.
 -   Encourage to just come her and be a potter?
  
 Yes

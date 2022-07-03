@@ -1,0 +1,2 @@
+- (Patron-izeinvite him to be a potter and put up murals)Umur : Male Gnome Artist (No class), N. Str 11, Dex 9, Con 8, Int 8, Wis 10, Cha 10. Umur has tangled black hair and brown eyes, and walks with a limp. He wears fine shabby clothing but a gold amulet. Was kicked out by his master for not meeting unfair standards. Umur is searching for a way to make money so he can start his own pottery shop. Skill: 3D art.
+-   Encourage to just come her and be a potter?

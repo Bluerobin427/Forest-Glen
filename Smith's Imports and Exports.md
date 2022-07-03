@@ -1,0 +1,1 @@
+In [[Stronghurst]], owned by [[Adam Smith]]. Home of [[Adam Smith's private security force]].

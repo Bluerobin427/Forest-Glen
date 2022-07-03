@@ -1,0 +1,1 @@
+Works(?) at the library in [[Stronghurst]]. Helped us find [[The Mage Tower Job]] and [[Abbey of Glorious Ascension]]. Likes to hear about rare places and things after we go there. Takes 1 gold to teach about things.

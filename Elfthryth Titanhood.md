@@ -1,0 +1,3 @@
+- Elfthryth Titanhood: Female Human Merchant Guard (Fighter 1), N. Str 6, Dex 11, Con 6, Int 10, Wis 9, Cha 10. Elfthryth has a long face, with long auburn hair and narrow grey eyes. She wears studded leather and wields a glaive. Elfthryth has an animal companion, a black rat named Rihtio. Answers are direct and to the point. Skill: Wood carving
+
+Hired on as guild fighter instructor. From [[Biggsville]]. Was set to marry her cousin, but didn't want to and left. Her clan disowned her. She doesn't like Biggsville or what it stands for.

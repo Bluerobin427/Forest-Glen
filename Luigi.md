@@ -6,6 +6,7 @@ Luigi, or "Russo" if you prefer, stands a respectful height for a Mountain Dwarf
 
 Luigi's face is handsome enough for a dwarf, with a quaffed mop of jet black hair rising like a wave on top of his head. Contrasting with his careful follicular stylings is the...rest. Cobbled together clothing stained crusty white with sweat and dark from wood varnish and polish. A sight to be seen, for sure.
 
-He's a dwarf, puts himself together... except his gear. He tries! Really.
+He's a dwarf, puts himself together... except his gear. He tries! Really."
 
-"
+
+He has a patron of some kind. 

@@ -14,6 +14,6 @@
 
 “Just kill it: The philosophical musings of Ivan the Destroyer” by Admiranda Titanhouse. [Series of deep philosophical discussions between the narrator and Ivan. The debates are well reasoned and nuanced. Which at first you find really surprising given the title, but you continue reading and realize that in the end Ivan always states that the only logical conclusion to any situation is to “stab it,slash it, or pound on it until it is dead ”].
 
-“Silent Rage: The Forgotten One” by Ywain Shaddowhisper -Speculation on a 7th New God. Found an ancient text that survived the Breaking that referred to 7 Champions. Also recounts a weird story where the New Gods outlawed the number seven for a century or two. The cover has a tree with seven roots, six white and one black.]
+“Silent Rage: The Forgotten One” by Ywain Shaddowhisper -Speculation on a 7th New God. Found an ancient text that survived the Breaking that referred to 7 Champions. Also recounts a weird story where the New Gods outlawed the number seven for a century or two. The cover has a tree with seven roots, six white and one black.] 
 
 “What was, will be?” by Tiberius Truthspeculator. [Random examples where history repeats itself. They go from the mundane to global shifts.]

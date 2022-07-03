@@ -1,0 +1,3 @@
+- Gerda Hildedotr: Female Dwarf Vagabond (Barbarian 2), N. Str 15, Dex 7, Con 11, Int 12, Wis 10, Cha 6. Gerda has black hair and light brown eyes. She wears studded leather and wields a maul. Gerda is searching for the lost kingdom of Ningelin (Pire-Breaking) and is here to earn money and scout the area. Skill: Cartography
+
+Applied to join the guild on [[2022-6-19]]. Was turned down, but asked to stick around to recruit to join the town instead. Recruited to the town scouts on [[2022-7-2]] by Zorlack. 

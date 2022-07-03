@@ -1,0 +1,1 @@
+Has a symbol that looks like a bastardized version of [[Ivan the Destroyer]]'s. An army backed by a giant wielding a bow and a crossbow instead of the standard axe and sword.

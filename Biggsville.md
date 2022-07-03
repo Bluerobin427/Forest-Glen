@@ -1,0 +1,1 @@
+Sister city to [[Stronghurst]]. Known mostly for serfs.
