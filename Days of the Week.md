@@ -1,6 +1,6 @@
 # Days of the Week
 
-Saturday is #210. I'm turnip colored.
+#210 is a Saturday. I'm turnip colored.
 
 Next 17 y.o. birthday is day 475.
 

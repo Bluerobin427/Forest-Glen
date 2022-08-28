@@ -8,6 +8,10 @@ Here's session notes:
 [[2022-7-2]]
 [[2022-7-9]]
 [[2022-7-11]]
+[[2022-8-7]]
+[[2022-8-19]]
+[[2022-8-20]]
+[[2022-8-27]]
 
 Link to inventory: https://docs.google.com/spreadsheets/d/1MRek5vUDnTFPgrbcoXb2fqMLn7ScU05dY3G-oT_VnXI/edit?usp=sharing
 

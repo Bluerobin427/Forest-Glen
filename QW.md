@@ -1,0 +1,1 @@
+Might stand for quintessential warriors. Used as a [[slave brand]] and associated with the Bullstorm family of [[Biggsville]], who Urgot is an heir to.
